@@ -32,3 +32,4 @@ function factorsCheck(num) {
 }
 
 console.log(factorsCheck(100));
+console.log(factorsCheck(200));
